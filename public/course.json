@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "course_name": "C Programming",
+      "course_details": "Learn the fundamentals of the C programming language.",
+      "price": 1300,
+      "credit": 3,
+      "course_img": "https://i.ibb.co/Qb1KmQ9/Rectangle-2-2.png"
+    },
+    {
+      "id": 2,
+      "course_name": "Algorithms",
+      "course_details": "Master the art of designing efficient algorithms.",
+      "price": 1000,
+      "credit": 8,
+      "course_img": "https://i.ibb.co/2dysbKx/Rectangle-2-3.png"
+    },
+    {
+      "id": 3,
+      "course_name": "C++ Data Structures and Algorithms",
+      "course_details": "Explore data structures and algorithms using C++.",
+      "price": 800,
+      "credit": 4,
+      "course_img": " https://i.ibb.co/Syq97NR/Rectangle-2-4.png"
+     
+    },
+    {
+      "id": 4,
+      "course_name": "Data Structures",
+      "course_details": "Dive into the world of data structures and their applications.",
+      "price": 600,
+      "credit": 3,
+      "course_img": "https://i.ibb.co/SQvYJHw/Rectangle-3.png"
+    },
+    {
+      "id": 5,
+      "course_name": "Object-Oriented Programming with Python",
+      "course_details": "Learn Python and OOP principles for software development.",
+      "price": 1200,
+      "credit": 8,
+      "course_img": "https://i.ibb.co/RcL9kQz/Rectangle-2.png"
+    },
+    {
+      "id": 6,
+      "course_name": "Software Engineering Fundamentals",
+      "course_details": "Discover the key principles of software engineering.",
+      "price": 900,
+      "credit": 4,
+      "course_img": "https://i.ibb.co/dWCpznx/Rectangle-2-5.png"
+    },
+    {
+      "id": 7,
+      "course_name": "AWS Cloud Computing",
+      "course_details": "Become proficient in AWS cloud services and infrastructure.",
+      "price": 500,
+      "credit": 10,
+      "course_img": "https://i.ibb.co/8rww2PK/Rectangle-3-1.png"
+    },
+    {
+      "id": 8,
+      "course_name": "Database Management with MySQL",
+      "course_details": "Learn database management using MySQL.",
+      "price": 1100,
+      "credit": 12,
+      "course_img": "https://i.ibb.co/SPc6Zrf/Rectangle-2-1.png"
+    },
+    {
+      "id": 9,
+      "course_name": "Problem Solving Techniques",
+      "course_details": "Enhance your problem-solving skills and critical thinking.",
+      "price": 700,
+      "credit": 9,
+      "course_img": "https://i.ibb.co/6Rx3TYs/Rectangle-2-6.png"
+    }
+  ]
+  
